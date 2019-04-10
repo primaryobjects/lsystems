@@ -9,7 +9,7 @@ This is a demo of using a [Lindenmayer system](https://en.wikipedia.org/wiki/L-s
 
 The project is demonstrated using React, Javascript, and the HTML5 canvas. Run it on [Codepen](https://codepen.io/anon/pen/GLjOOe).
 
-![Screenshot](https://raw.githubusercontent.com/primaryobjects/lsystems/master/lsystems.gif)
+![Screenshot](https://raw.githubusercontent.com/primaryobjects/lsystems/master/screenshot.gif)
 
 ## Grammar
 
