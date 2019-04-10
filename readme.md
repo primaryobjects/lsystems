@@ -1,11 +1,15 @@
-L-Systems Demo
+L-Systems
 ===========
 
-Drawing pretty recursive patterns using a formal grammar heuristic!
+Drawing recursive patterns using a formal grammar heuristic.
+
+Try the online [demo](http://primaryobjects.github.io/lsystems/).
 
 This is a demo of using a [Lindenmayer system](https://en.wikipedia.org/wiki/L-system) to draw patterns using a basic implementation of the programming language [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)). The pattern is drawn using a heuristic based upon a formula for X and Y movement. The formula is defined using the grammar shown below. The default value is the [Dragon](https://en.wikipedia.org/wiki/L-system#Example_6:_Dragon_curve) pattern!
 
 The project is demonstrated using React, Javascript, and the HTML5 canvas. Run it on [Codepen](https://codepen.io/anon/pen/GLjOOe).
+
+![Screenshot](https://raw.githubusercontent.com/primaryobjects/lsystems/master/lsystems.gif)
 
 ## Grammar
 
